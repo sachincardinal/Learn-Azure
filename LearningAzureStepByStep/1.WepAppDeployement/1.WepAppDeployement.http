@@ -1,0 +1,6 @@
+@_1.WepAppDeployement_HostAddress = http://localhost:5092
+
+GET {{_1.WepAppDeployement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
